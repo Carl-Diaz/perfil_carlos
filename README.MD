@@ -36,9 +36,4 @@ La página incluye:
 2. Asegúrate de tener una imagen de perfil con el nombre `foto.jpeg` en la carpeta `image/`.
 3. Abre `index.html` en tu navegador favorito.
 
-## Contacto
-
-Este perfil fue creado como parte de una práctica o portafolio personal. Puedes modificar el contenido según tus necesidades.
-
----
 Desarrollado por Carlos Alberto Díaz Sánchez.
